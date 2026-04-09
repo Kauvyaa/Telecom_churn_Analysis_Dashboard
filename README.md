@@ -53,3 +53,10 @@ This project presents an interactive Power BI dashboard to analyze telecom custo
 
 This dashboard helps identify high-risk customers, understand churn behavior, and reduce revenue loss through data-driven strategies.
 
+## Screenshots
+
+<img width="1234" height="695" alt="Screenshot1" src="https://github.com/user-attachments/assets/423d2eef-a77f-40ad-b85b-9bf0969ec3ef" />
+
+<img width="1234" height="695" alt="Screenshot2" src="https://github.com/user-attachments/assets/1093647d-f014-4e01-b60e-8e007c295087" />
+
+

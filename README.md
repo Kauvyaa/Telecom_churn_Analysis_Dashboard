@@ -45,7 +45,7 @@ This project presents an interactive Power BI dashboard to analyze telecom custo
 
 ## 🚀 How to Use
 
-1. Open the Power BI (.pbix) file
+1. Open the Dashboard link
 2. Use slicers to filter by contract type, churn status, and services
 3. Explore visuals to analyze trends and patterns
 
